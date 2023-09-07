@@ -7,4 +7,4 @@
 
 ## Other Lists
 
-[Privacy Tools](https://privacytools.info) - Lot of good privacy tools and advice
+[Privacy Tools](https://privacytools.io) - Lot of good privacy tools and advice
