@@ -8,3 +8,5 @@
 ## Other Lists
 
 [Privacy Tools](https://privacytools.info) - Lot of good privacy tools and advice
+
+[Irvine Library Help](https://csc.csudh.edu/mmccullough/asm/help/) - Documentation for using the Irvine Library with development in Assembly
